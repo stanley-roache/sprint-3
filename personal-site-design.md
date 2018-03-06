@@ -1,6 +1,6 @@
 What is your site's primary purpose?
 
-To display some of my creations/work as a web developer, provide a point of contact.
+To display some of my creations/work/background as a web developer, provide a point of contact.
 
 Who is your target audience?
 
